@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="4.0" group="system" method="upgrade">
+	<name>System - Joomill Elements for YOOtheme Pro</name>
+	<creationDate>June 2022</creationDate>
+	<author>Joomill</author>
+	<copyright>(C) 2022 Joomill</copyright>
+	<license>GNU General Public License version 3, see LICENSE</license>
+	<authorEmail>info@joomill-extensions.com</authorEmail>
+	<authorUrl>www.joomill-extensions.com</authorUrl>
+	<version>1.0.0</version>
+	<description>Joomill Elements for YOOtheme Pro builder</description>
+	<scriptfile>script.php</scriptfile>
+	<files>
+		<filename plugin="joomillelements">joomillelements.php</filename>
+		<filename>bootstrap.php</filename>
+		<folder>element</folder>
+	</files>
+</extension>

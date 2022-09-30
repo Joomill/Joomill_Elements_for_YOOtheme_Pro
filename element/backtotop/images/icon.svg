@@ -1,0 +1,12 @@
+<!--
+  -  package: Joomill Elements for YOOtheme Pro
+  -  copyright: Copyright (c) 2022. Jeroen Moolenschot | Joomill
+  -  license: GNU General Public License version 2 or later
+  -  link: https://www.joomill-extensions.com
+  -->
+
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+    <polyline fill="none" stroke="#0072bc" stroke-width="2" points="10,14 15,9 20,14" />
+    <rect x="14" y="10" fill="#0072bc" width="2" height="11" />
+    <circle fill="none" stroke="#444" stroke-width="2" cx="15" cy="15" r="13" />
+</svg>

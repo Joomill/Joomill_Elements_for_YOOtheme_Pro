@@ -1,0 +1,10 @@
+<!--
+  -  package: Joomill Elements for YOOtheme Pro
+  -  copyright: Copyright (c) 2022. Jeroen Moolenschot | Joomill
+  -  license: GNU General Public License version 2 or later
+  -  link: https://www.joomill-extensions.com
+  -->
+
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+    <rect x="4" y="1" fill="none" stroke="#444" stroke-width="2" width="22" height="28"></rect>
+</svg>
